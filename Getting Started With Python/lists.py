@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+# List is mutable
+# List allow to change values stored in it
+# List declared in squre brackets
+
 num = [25,45,85,95,65,82,62,35,55]
 
 '''
