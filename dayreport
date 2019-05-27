@@ -29,3 +29,6 @@ Day 10 (27-05-2019) :
         Python for data science basic recommendation system.
         For installing lightfm Microsoft Visual C++ 14.0 is required so please install before installing lightfm using visualcppbuildtools 
         link 'https://stackoverflow.com/questions/44951456/pip-error-microsoft-visual-c-14-0-is-required'
+        1. Recommendation algorithams helps us make dicisions by learning our preferences.
+        2. Two types - content-based & collaborative.
+        3. LightFM is grate for getting started with recommendation.
