@@ -25,3 +25,7 @@ Day 8 (25-05-2019) :
 Day 9 (26-05-2019) :
         Python for data science twitter sentiment analysis with user input
         Python Django Application dev
+Day 10 (27-05-2019) :
+        Python for data science basic recommendation system.
+        For installing lightfm Microsoft Visual C++ 14.0 is required so please install before installing lightfm using visualcppbuildtools 
+        link 'https://stackoverflow.com/questions/44951456/pip-error-microsoft-visual-c-14-0-is-required'
